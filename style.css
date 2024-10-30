@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", serif;
+}
+
+header{
+    margin: 44px 0 144px 76px;
+}
+
+.link-header{
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #989d9c;
+    cursor: pointer;
+    margin-right: 23px;
+}
+
+.button-header{
+    background: #665ae1;
+    border-radius: 20.5px;
+    width: 130px;
+    height: 41px;
+    border: none;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29px;
+    color: #ffffff;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.img-logo{
+    width: 568px;
+    height: 500px;
+    margin-left: 125px;
+    display: inline-block;
+}
+
+section{
+    display: inline-block;
+    margin-left: 86px;
+}
+
+h1{
+    color: #515151;
+    font-size: 100px;
+    font-weight: 900;
+    line-height: normal;
+}
+
+h2{
+    color: #515151;
+    font-size: 58px;
+    font-weight: 500;
+    line-height: normal;
+}
+
+p{
+    color: #848484;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: normal;
+    width: 515px;
+    margin-top: 32px;
+    margin-bottom: 60px;
+}
+
+.button-section{
+    border-radius: 30px;
+    background: #ADFF00;
+    width: 239px;
+    height: 64px;
+    border: none;
+    color: #000;
+    cursor: pointer;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: normal;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    text-transform: uppercase;
+}
+
+@media screen and (max-width:825px){
+
+    .img-logo{
+        width: 354px;
+        height: 317px;
+        position: relative;
+        margin: 25% 5% 15px;
+    }
+    header{
+        display: none;
+    }
+    p{
+        display: none;
+    }
+    h1{
+        width: 263px;
+        height: 52px;
+        font-size: 60px;
+        line-height: normal;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    h2{
+        width: 232px;
+        height: 37px;
+        font-size: 30px;
+        line-height: normal;
+        text-align: center;
+        margin-bottom: 60px;
+    }
+}
+@media screen and (max-width:660px){
+    .img-logo{
+        padding: 30px
+    }
+    h1{
+       font-size: 45px;
+       text-align: center;
+       position: relative;
+       right: 20px;
+    }
+    h2{
+       font-size: 25px;
+       text-align: center;
+       position: relative;
+       right: 3px;
+    }
+    .button-section{
+        position: relative;
+        bottom: 30px;
+    }
+}
