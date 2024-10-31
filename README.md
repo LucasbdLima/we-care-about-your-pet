@@ -1,6 +1,6 @@
 <h1>We Care About Your Pet</h1>
 <br>
-<p>Projeto que teve como escopo montar um layout de uma plataforma voltada para os cuidados de animais, como um petshopp. Site onde as pessoas podem contratar os serviços de cuidados do seu pet. Foi executado com linguagem de marcação em HTML e estilizado com CSS, bem como, foi feito a responsividade do projeto para ser utilizado também em aparelhos de menor tamanho de tela.</p>
+<p>Projeto que teve como objetivo montar um layout de uma plataforma voltada para os cuidados de animais - um petshop. Sítio esse onde as pessoas podem contratar os serviços de cuidados do seu pet. Foi executado com linguagem de marcação em HTML e estilizado com CSS, bem como, foi feito a responsividade do projeto para ser utilizado também em aparelhos de menor tamanho de tela.</p>
 <br>
 <h2>Esse projeto foi desenvolvido no curso <a href="https://rodolfomori.com.br/devclub">Devclub</a></h2>
 <br>
