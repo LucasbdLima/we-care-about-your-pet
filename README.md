@@ -10,8 +10,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
 <br>
 <h3>Desktop Layout:</h3>
-<img src="" alt="desktop-layout-project">
+<img src="https://github.com/LucasbdLima/we-care-about-your-pet/blob/master/assets/desktop-layout.png?raw=true" alt="desktop-layout-project">
 <br>
 <br>
 <h3>Cellphone Layout:</h3>
-<img src="" alt="cellphone-layout-project">
+<img src="https://github.com/LucasbdLima/we-care-about-your-pet/blob/master/assets/cellphone-layout.png?raw=true" alt="cellphone-layout-project">
